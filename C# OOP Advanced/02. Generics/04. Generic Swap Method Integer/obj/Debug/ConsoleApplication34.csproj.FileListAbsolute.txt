@@ -1,0 +1,1 @@
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\04. Generic Swap Method Integer\bin\Debug\ConsoleApplication34.exe.config

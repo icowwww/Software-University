@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\09. Custom List Iterator\bin\Debug\ConsoleApplication78.exe.config
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\09. Custom List Iterator\bin\Debug\ConsoleApplication78.exe
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\09. Custom List Iterator\bin\Debug\ConsoleApplication78.pdb
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\09. Custom List Iterator\obj\Debug\ConsoleApplication78.exe
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\09. Custom List Iterator\obj\Debug\ConsoleApplication78.pdb

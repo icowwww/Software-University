@@ -1,0 +1,1 @@
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\01. Generic Box of String\bin\Debug\ConsoleApplication34.exe.config
