@@ -1,1 +1,0 @@
-C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\09. Custom List Iterator\bin\Debug\ConsoleApplication78.exe.config

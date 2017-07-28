@@ -1,5 +1,0 @@
-C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\02. Generic Box of Integer\bin\Debug\ConsoleApplication34.exe.config
-C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\02. Generic Box of Integer\bin\Debug\ConsoleApplication34.exe
-C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\02. Generic Box of Integer\bin\Debug\ConsoleApplication34.pdb
-C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\02. Generic Box of Integer\obj\Debug\ConsoleApplication34.exe
-C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\02. Generic Box of Integer\obj\Debug\ConsoleApplication34.pdb

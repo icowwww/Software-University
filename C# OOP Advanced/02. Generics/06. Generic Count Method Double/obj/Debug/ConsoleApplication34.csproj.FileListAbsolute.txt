@@ -1,1 +1,0 @@
-C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\02. Generics\06. Generic Count Method Double\bin\Debug\ConsoleApplication34.exe.config
