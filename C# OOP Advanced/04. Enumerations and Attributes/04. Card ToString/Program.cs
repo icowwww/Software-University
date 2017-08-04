@@ -9,8 +9,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        var type = typeof(Pet);
-        Console.WriteLine(type.Name);
-        Console.WriteLine(type.FullName);
+        var CardRank = Console.ReadLine();
+        var CardSuit = Console.ReadLine();
+        var card = new Card(CardRank, CardSuit);
+        Console.WriteLine(card);
     }
 }

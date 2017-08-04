@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\04. Enumerations and Attributes\05. Card CompareTo\bin\Debug\ConsoleApplication37.exe.config
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\04. Enumerations and Attributes\05. Card CompareTo\bin\Debug\ConsoleApplication37.exe
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\04. Enumerations and Attributes\05. Card CompareTo\bin\Debug\ConsoleApplication37.pdb
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\04. Enumerations and Attributes\05. Card CompareTo\obj\Debug\ConsoleApplication37.exe
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\04. Enumerations and Attributes\05. Card CompareTo\obj\Debug\ConsoleApplication37.pdb

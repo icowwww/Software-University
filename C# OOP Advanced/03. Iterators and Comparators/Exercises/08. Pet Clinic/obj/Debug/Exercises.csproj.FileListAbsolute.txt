@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\03. Iterators and Comparators\Exercises\08. Pet Clinic\bin\Debug\Exercises.exe.config
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\03. Iterators and Comparators\Exercises\08. Pet Clinic\bin\Debug\Exercises.exe
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\03. Iterators and Comparators\Exercises\08. Pet Clinic\bin\Debug\Exercises.pdb
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\03. Iterators and Comparators\Exercises\08. Pet Clinic\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\03. Iterators and Comparators\Exercises\08. Pet Clinic\obj\Debug\Exercises.exe
+C:\Users\Hristo\Documents\GitHub\Software-University\C# OOP Advanced\03. Iterators and Comparators\Exercises\08. Pet Clinic\obj\Debug\Exercises.pdb
