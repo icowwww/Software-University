@@ -1,0 +1,13 @@
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfo.cs
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.deps.json
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\ASDASD\Desktop\New folder (3)\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb

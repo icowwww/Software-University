@@ -1,0 +1,10 @@
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\bin\Debug\netcoreapp2.0\BusTickets.App.deps.json
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\bin\Debug\netcoreapp2.0\BusTickets.App.runtimeconfig.json
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\bin\Debug\netcoreapp2.0\BusTickets.App.runtimeconfig.dev.json
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\bin\Debug\netcoreapp2.0\BusTickets.App.dll
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\bin\Debug\netcoreapp2.0\BusTickets.App.pdb
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\obj\Debug\netcoreapp2.0\BusTickets.App.csproj.CoreCompileInputs.cache
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\obj\Debug\netcoreapp2.0\BusTickets.App.AssemblyInfoInputs.cache
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\obj\Debug\netcoreapp2.0\BusTickets.App.AssemblyInfo.cs
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\obj\Debug\netcoreapp2.0\BusTickets.App.dll
+C:\Users\ASDASD\source\repos\BusTickets\BusTickets.App\obj\Debug\netcoreapp2.0\BusTickets.App.pdb

@@ -1,0 +1,8 @@
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\bin\Debug\netcoreapp2.0\Employees.DtoModels.deps.json
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\bin\Debug\netcoreapp2.0\Employees.DtoModels.dll
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\bin\Debug\netcoreapp2.0\Employees.DtoModels.pdb
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.csproj.CoreCompileInputs.cache
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.AssemblyInfoInputs.cache
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.AssemblyInfo.cs
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.dll
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.DtoModels\obj\Debug\netcoreapp2.0\Employees.DtoModels.pdb

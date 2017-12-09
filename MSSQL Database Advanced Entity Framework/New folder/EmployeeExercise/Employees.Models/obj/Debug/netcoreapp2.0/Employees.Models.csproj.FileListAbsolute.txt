@@ -1,0 +1,9 @@
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csprojResolveAssemblyReference.cache
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\ASDASD\source\repos\EmployeeExercise\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.pdb

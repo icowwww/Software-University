@@ -1,0 +1,13 @@
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.AssemblyInfo.cs
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.deps.json
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.dll
+C:\Users\ASDASD\Desktop\New folder (4)\Stations.DataProcessor\obj\Debug\netcoreapp2.0\Stations.DataProcessor.pdb
