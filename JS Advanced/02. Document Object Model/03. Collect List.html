@@ -1,0 +1,16 @@
+<ul id="items">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+<textarea id="result"></textarea>
+<br>
+<button onclick="extractText()">Extract Text</button>
+<script>
+    function extractText() {
+        let a = document.querySelectorAll("ul#items li")
+        for(let line of a){
+            document.getElementById("result").value += line.textContent + "\n"
+        }
+    }
+</script>
