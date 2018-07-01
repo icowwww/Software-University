@@ -1,0 +1,14 @@
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\bin\Debug\netcoreapp2.0\KittenApp.Data.deps.json
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\bin\Debug\netcoreapp2.0\KittenApp.Data.dll
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\obj\Debug\netcoreapp2.0\KittenApp.Data.csprojAssemblyReference.cache
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\obj\Debug\netcoreapp2.0\KittenApp.Data.csproj.CoreCompileInputs.cache
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\obj\Debug\netcoreapp2.0\KittenApp.Data.AssemblyInfoInputs.cache
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\obj\Debug\netcoreapp2.0\KittenApp.Data.AssemblyInfo.cs
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\bin\Debug\netcoreapp2.0\KittenApp.Data.runtimeconfig.json
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\bin\Debug\netcoreapp2.0\KittenApp.Data.runtimeconfig.dev.json
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\bin\Debug\netcoreapp2.0\KittenApp.Data.pdb
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\bin\Debug\netcoreapp2.0\KittenApp.Models.dll
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\bin\Debug\netcoreapp2.0\KittenApp.Models.pdb
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\obj\Debug\netcoreapp2.0\KittenApp.Data.csproj.CopyComplete
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\obj\Debug\netcoreapp2.0\KittenApp.Data.dll
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Data\obj\Debug\netcoreapp2.0\KittenApp.Data.pdb

@@ -1,0 +1,9 @@
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\bin\Debug\netcoreapp2.0\KittenApp.Models.deps.json
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\bin\Debug\netcoreapp2.0\KittenApp.Models.dll
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\bin\Debug\netcoreapp2.0\KittenApp.Models.pdb
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.csprojAssemblyReference.cache
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.csproj.CoreCompileInputs.cache
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.AssemblyInfoInputs.cache
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.AssemblyInfo.cs
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.dll
+c:\users\dfsafadsf\source\repos\Solution1\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.pdb

@@ -1,0 +1,62 @@
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.deps.json
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CopyComplete
+D:\Trainer\Demo\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csprojResolveAssemblyReference.cache
+D:\Trainer\Demo\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+D:\Trainer\Demo\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+D:\Trainer\Demo\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfo.cs
+D:\Trainer\Demo\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+D:\Trainer\Demo\MVCServer\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.deps.json
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.deps.json
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.csproj.CopyComplete
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Framework\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb

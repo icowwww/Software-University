@@ -1,0 +1,44 @@
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csprojResolveAssemblyReference.cache
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+D:\Trainer\Demo\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\KittenApplication\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Yordan\Desktop\MeTube\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb

@@ -1,0 +1,18 @@
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\bin\Debug\netcoreapp2.0\MeTube.Models.deps.json
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\bin\Debug\netcoreapp2.0\MeTube.Models.dll
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\bin\Debug\netcoreapp2.0\MeTube.Models.pdb
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.dll
+C:\Users\Yordan\Desktop\MeTube\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\bin\Debug\netcoreapp2.0\MeTube.Models.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\bin\Debug\netcoreapp2.0\MeTube.Models.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\bin\Debug\netcoreapp2.0\MeTube.Models.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Models\obj\Debug\netcoreapp2.0\MeTube.Models.pdb

@@ -1,0 +1,63 @@
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\03. Work\Z_SVN\csharp-web\Sept-2017\Web-Dev-Basics-Sept-2017\08. Introduction-to-MVC\Solution\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\Yordan\Desktop\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+D:\Trainer\Demo\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+D:\Trainer\Demo\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+D:\Trainer\Demo\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+D:\Trainer\Demo\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojResolveAssemblyReference.cache
+D:\Trainer\Demo\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+D:\Trainer\Demo\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+D:\Trainer\Demo\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+D:\Trainer\Demo\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+D:\Trainer\Demo\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\KittenApplication\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MeTube\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\Yordan\Desktop\MeTube\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\MeTube\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Yordan\Desktop\MeTube\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MeTube\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MeTube\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MeTube\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MeTube\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Yordan\Desktop\MeTube\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb

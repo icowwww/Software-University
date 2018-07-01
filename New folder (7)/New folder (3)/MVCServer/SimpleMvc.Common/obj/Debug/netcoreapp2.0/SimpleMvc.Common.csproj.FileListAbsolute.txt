@@ -1,0 +1,9 @@
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb

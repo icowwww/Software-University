@@ -1,0 +1,14 @@
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.deps.json
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.dll
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csprojAssemblyReference.cache
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csproj.CoreCompileInputs.cache
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.AssemblyInfoInputs.cache
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.AssemblyInfo.cs
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.runtimeconfig.json
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.runtimeconfig.dev.json
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.pdb
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Models.dll
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Models.pdb
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csproj.CopyComplete
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.dll
+c:\users\dfsafadsf\source\repos\MeTubeApp\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.pdb

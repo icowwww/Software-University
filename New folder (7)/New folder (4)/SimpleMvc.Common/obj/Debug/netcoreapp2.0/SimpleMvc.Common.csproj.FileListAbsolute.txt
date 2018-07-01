@@ -1,0 +1,17 @@
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb

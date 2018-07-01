@@ -1,0 +1,24 @@
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Data.deps.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Data.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Models.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Models.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.AssemblyInfoInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.AssemblyInfo.cs
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.csproj.CopyComplete
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Data.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Data.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Models.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\bin\Debug\netcoreapp2.0\SimpleMvc.Models.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.csproj.CopyComplete
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Data\obj\Debug\netcoreapp2.0\SimpleMvc.Data.pdb

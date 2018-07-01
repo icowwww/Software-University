@@ -1,0 +1,54 @@
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.deps.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.runtimeconfig.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.runtimeconfig.dev.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Models.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Models.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Data.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.AssemblyInfoInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.AssemblyInfo.cs
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.csproj.CopyComplete
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.runtimeconfig.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.runtimeconfig.dev.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\MeTube.App.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Models.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Models.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Data.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.csproj.CopyComplete
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\MeTube.App\obj\Debug\netcoreapp2.0\MeTube.App.pdb

@@ -1,0 +1,24 @@
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.deps.json
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.dll
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.AssemblyInfoInputs.cache
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.AssemblyInfo.cs
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csprojAssemblyReference.cache
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.pdb
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.dll
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.pdb
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Models.dll
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Models.pdb
+C:\Users\Yordan\Desktop\MeTube\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csproj.CopyComplete
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Data.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Models.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\bin\Debug\netcoreapp2.0\MeTube.Models.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.csproj.CopyComplete
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.dll
+C:\Users\DFSAFADSF\Desktop\New folder (6)\MeTube.Data\obj\Debug\netcoreapp2.0\MeTube.Data.pdb

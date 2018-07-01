@@ -1,0 +1,9 @@
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\DFSAFADSF\Desktop\New folder (3)\MVCServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb

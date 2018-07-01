@@ -1,0 +1,50 @@
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.deps.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.runtimeconfig.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.runtimeconfig.dev.json
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Models.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Data.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Models.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.AssemblyInfoInputs.cache
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.AssemblyInfo.cs
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.csproj.CopyComplete
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.dll
+C:\Users\Danny\Downloads\10. CSharp-Web-Development-Basics-Exam-Preparation-II-Resources\MVCServer\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.deps.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.runtimeconfig.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.runtimeconfig.dev.json
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Data.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Models.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Data.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Framework.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Models.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.csprojAssemblyReference.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.AssemblyInfoInputs.cache
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.AssemblyInfo.cs
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.csproj.CopyComplete
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.dll
+C:\Users\DFSAFADSF\Desktop\New folder (4)\SimpleMvc.Framework.Tests\obj\Debug\netcoreapp2.0\SimpleMvc.Framework.Tests.pdb
