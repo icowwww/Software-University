@@ -1,19 +1,19 @@
 ﻿using System;
 using System.Linq;
-using System.Runtime.InteropServices;
 
 namespace Man_O_War
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            var pirateShipStatus = Console.ReadLine().Split('>', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
-            var warShipStatus = Console.ReadLine().Split('>', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
+            var pirateShipStatus = Console.ReadLine().Split('>', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse).ToList();
+            var warShipStatus = Console.ReadLine().Split('>', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse)
+                .ToList();
             var maxHealth = int.Parse(Console.ReadLine());
 
             var commandInput = Console.ReadLine();
-
             while (commandInput != "Retire")
             {
                 var commandArgs = commandInput.Split(" ", StringSplitOptions.RemoveEmptyEntries).ToList();
@@ -28,11 +28,9 @@ namespace Man_O_War
                         if (CheckIndex(warShipCount, index, null))
                         {
                             warShipStatus[index] -= damage;
-                            if (warShipStatus[index] <= 0)
-                            {
-                                Console.WriteLine("You won! The enemy ship has sunken.");
-                                return;
-                            }
+                            if (warShipStatus[index] > 0) break;
+                            Console.WriteLine("You won! The enemy ship has sunken.");
+                            return;
                         }
 
                         break;
@@ -45,17 +43,13 @@ namespace Man_O_War
                         var pirateShipCount = pirateShipStatus.Count;
 
                         if (CheckIndex(pirateShipCount, startIndex, endIndex))
-                        {
-                            for (int i = startIndex; i <= endIndex; i++)
+                            for (var i = startIndex; i <= endIndex; i++)
                             {
                                 pirateShipStatus[i] -= damage;
-                                if (pirateShipStatus[i] <= 0)
-                                {
-                                    Console.WriteLine("You lost! The pirate ship has sunken.");
-                                    return;
-                                }
+                                if (pirateShipStatus[i] > 0) continue;
+                                Console.WriteLine("You lost! The pirate ship has sunken.");
+                                return;
                             }
-                        }
 
                         break;
                     }
@@ -67,13 +61,9 @@ namespace Man_O_War
                         if (CheckIndex(pirateShipCount, index, null))
                         {
                             if (pirateShipStatus[index] + health >= maxHealth)
-                            {
                                 pirateShipStatus[index] = maxHealth;
-                            }
                             else
-                            {
                                 pirateShipStatus[index] += health;
-                            }
                         }
 
                         break;
@@ -85,12 +75,12 @@ namespace Man_O_War
                         break;
                     }
                 }
+
                 commandInput = Console.ReadLine();
             }
 
             var pirateShipSum = pirateShipStatus.Sum();
             var warShipSum = warShipStatus.Sum();
-            
 
             Console.WriteLine($"Pirate ship status: {pirateShipSum}");
             Console.WriteLine($"Warship status: {warShipSum}");
@@ -99,16 +89,12 @@ namespace Man_O_War
         private static bool CheckIndex(int elementsCount, int startIndex, int? endIndex)
         {
             if (startIndex < 0 || startIndex >= elementsCount)
-            {
                 return false;
-            }
 
-            if (endIndex.HasValue && (endIndex < 0 || endIndex >= elementsCount || startIndex > endIndex))
-            {
-                return false;
-            }
+            if (!endIndex.HasValue)
+                return true;
 
-            return true;
+            return !(endIndex < 0) && !(endIndex >= elementsCount) && !(startIndex > endIndex);
         }
     }
 }
