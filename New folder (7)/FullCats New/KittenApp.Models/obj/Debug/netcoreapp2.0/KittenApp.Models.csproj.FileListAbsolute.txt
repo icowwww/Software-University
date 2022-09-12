@@ -1,0 +1,10 @@
+C:\ProgramData\newFolder\KittenApp.Models\bin\Debug\netcoreapp2.0\KittenApp.Models.deps.json
+C:\ProgramData\newFolder\KittenApp.Models\bin\Debug\netcoreapp2.0\KittenApp.Models.dll
+C:\ProgramData\newFolder\KittenApp.Models\bin\Debug\netcoreapp2.0\KittenApp.Models.pdb
+C:\ProgramData\newFolder\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.csproj.AssemblyReference.cache
+C:\ProgramData\newFolder\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\newFolder\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.AssemblyInfoInputs.cache
+C:\ProgramData\newFolder\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.AssemblyInfo.cs
+C:\ProgramData\newFolder\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.csproj.CoreCompileInputs.cache
+C:\ProgramData\newFolder\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.dll
+C:\ProgramData\newFolder\KittenApp.Models\obj\Debug\netcoreapp2.0\KittenApp.Models.pdb

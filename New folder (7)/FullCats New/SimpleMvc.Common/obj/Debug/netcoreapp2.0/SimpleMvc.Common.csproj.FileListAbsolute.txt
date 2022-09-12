@@ -1,0 +1,10 @@
+C:\ProgramData\newFolder\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.deps.json
+C:\ProgramData\newFolder\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\newFolder\SimpleMvc.Common\bin\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.AssemblyReference.cache
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfoInputs.cache
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.AssemblyInfo.cs
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.csproj.CoreCompileInputs.cache
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.dll
+C:\ProgramData\newFolder\SimpleMvc.Common\obj\Debug\netcoreapp2.0\SimpleMvc.Common.pdb
