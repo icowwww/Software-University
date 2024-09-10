@@ -1,0 +1,2 @@
+1.	Programming Basics Online Example Exam 7 - Time needed 1H:00M- https://judge.softuni.org/Contests/Practice/Index/2507#0
+2.	Programming Fundamentals Mid Exam Retake 1 - Time needed 0H:50M- https://judge.softuni.org/Contests/Practice/Index/2517#0
